@@ -1,6 +1,5 @@
-- Hi, I’m Raphael JDDS
-- I’m interested in DL (especially NNs), HPC, IoT and encryption methods.
-- I’m currently learning about Transformer NNs and GANs.
+- Science and computing nerd;
+- Currently interested on code decompilation and neural networks. Working on the development of a (personal) website for testing purposes;
 
 <!---
 RaphaelJDDS/RaphaelJDDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
