@@ -1,6 +1,6 @@
 - Science and computing nerd;
 - Currently interested on code decompilation and neural networks (& fascinated by the semiconductor industry);
-- Working on the development of a (personal) website for testing purposes;
+- Working on the deployment of a (personal) website for testing purposes;
 
 <!---
 RaphaelJDDS/RaphaelJDDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
